@@ -1,0 +1,6 @@
+{
+  "name": "Nexus UCSP",
+  "description": "Sistema inteligente de telemetría y monitoreo de niveles de pozo y bidones de agua de la Universidad Católica San Pablo (UCSP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
